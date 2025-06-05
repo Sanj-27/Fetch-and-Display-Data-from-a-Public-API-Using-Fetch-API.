@@ -25,3 +25,7 @@ This project demonstrates how to fetch and display data from a public API using 
 ├── script.js     
 ├── README.md       
 ## Screenshot 
+![Image](https://github.com/user-attachments/assets/1cfcb226-afd5-4d9f-8510-0e3439523825)
+- While no network
+
+![Image](https://github.com/user-attachments/assets/e324c357-7190-4f56-8d4f-4c4eaeb23c11)
